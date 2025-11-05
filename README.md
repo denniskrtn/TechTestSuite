@@ -11,7 +11,6 @@ Das Projekt simuliert technische Tests (z.B. Strom-, Spannungs- und Kommunikatio
 - Moderne **WPF-Oberfläche** mit DataGrid und ProgressBar
 - **Modulares Testsystem**: Testmodule sind leicht erweiterbar
 - **Asynchrone Testausführung** mit Live-Fortschrittsanzeige
-- Ergebnisse werden in einer **ObservableCollection** angezeigt
 - **MVVM-Architektur** mit sauberer Trennung von UI und Logik
 
 
