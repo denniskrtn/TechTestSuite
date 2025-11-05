@@ -18,7 +18,8 @@ Das Projekt simuliert technische Tests (z.B. Strom-, Spannungs- und Kommunikatio
 ---
 
 ## Screenshots
-![TechTestSuite UI](TechTestSuite/Assets/screenshot.png)
+![TechTestSuite UI](TechTestSuite/Assets/screenshot.jpg)
+
 
 ---
 
